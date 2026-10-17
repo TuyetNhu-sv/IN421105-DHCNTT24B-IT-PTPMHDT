@@ -1,8 +1,8 @@
-HỌ VÀ TÊN : LA THỊ TUYẾT NHƯ 
-MSSV : 0024419359  
+-HỌ VÀ TÊN : LA THỊ TUYẾT NHƯ  
+
+-MSSV : 0024419359  
 # GIỚI THIỆU CHUNG VỀ CODE 
- 
-2.
+-Chương trình viết bằng C# mô phỏng hệ thống quản lý câu lạc bộ sinh viên, bao gồm quản lý thành viên, sự kiện, đăng ký, điểm danh và báo cáo, đồng thời minh họa lập trình hướng đối tượng và xử lý ngoại lệ
  
 # CÁCH CHẠY PROJECT 
  1. Mở tải xuống toàn bộ file trong nhánh <ch01/0024419359>
