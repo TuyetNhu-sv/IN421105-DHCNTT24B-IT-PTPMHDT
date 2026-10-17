@@ -1,0 +1,45 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="obj\Debug\net10.0\.NETCoreApp,Version=v10.0.AssemblyAttributes.cs" />
+    <Compile Include="obj\Debug\net10.0\EduHub.Ch01.AssemblyInfo.cs" />
+    <Compile Include="obj\Debug\net10.0\EduHub.Ch01.GlobalUsings.g.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="bin\Debug\net10.0\EduHub.Ch01.deps.json" />
+    <Content Include="bin\Debug\net10.0\EduHub.Ch01.runtimeconfig.json" />
+    <Content Include="obj\Debug\net10.0\EduHub.Ch01.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\EduHub.Ch01.csproj.nuget.dgspec.json" />
+    <Content Include="obj\project.assets.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Debug\net10.0\EduHub.Ch01.dll" />
+    <None Include="bin\Debug\net10.0\EduHub.Ch01.exe" />
+    <None Include="bin\Debug\net10.0\EduHub.Ch01.pdb" />
+    <None Include="obj\Debug\net10.0\apphost.exe" />
+    <None Include="obj\Debug\net10.0\EduHub.C.06E19863.Up2Date" />
+    <None Include="obj\Debug\net10.0\EduHub.Ch01.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\net10.0\EduHub.Ch01.assets.cache" />
+    <None Include="obj\Debug\net10.0\EduHub.Ch01.csproj.BuildWithSkipAnalyzers" />
+    <None Include="obj\Debug\net10.0\EduHub.Ch01.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\Debug\net10.0\EduHub.Ch01.dll" />
+    <None Include="obj\Debug\net10.0\EduHub.Ch01.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="obj\Debug\net10.0\EduHub.Ch01.genruntimeconfig.cache" />
+    <None Include="obj\Debug\net10.0\EduHub.Ch01.pdb" />
+    <None Include="obj\Debug\net10.0\refint\EduHub.Ch01.dll" />
+    <None Include="obj\Debug\net10.0\ref\EduHub.Ch01.dll" />
+    <None Include="obj\EduHub.Ch01.csproj.nuget.g.props" />
+    <None Include="obj\EduHub.Ch01.csproj.nuget.g.targets" />
+    <None Include="obj\project.nuget.cache" />
+  </ItemGroup>
+
+</Project>

@@ -23,7 +23,7 @@ Là Ban CLB, tôi muốn kiểm tra thông tin sự kiện được tổ chức.
 ### US-04 ·  Ban CLB quản lý thành viên 
 Là Ban CLB, tôi muốn quản lý thành viên của các CLB.
 - Kiểm tra thông tin cá nhân và số người thành viên đã tham gia vào câu lạc bộ.
-- Thực hiện các nghiệp vụ cơ bản như thêm, sửa, xóa.
+- Thực hiện các nghiệp vụ cơ bản như `thêm`, `sửa`, `xóa`.
 
 ## Admin
 
@@ -36,4 +36,3 @@ Là Admin tôi muốn xem tổng số lượng sự kiện được tổ chức.
 Là Admin, tôi muốn hủy sự kiện của một CLB nếu event đó không phù hợp 
 -Given kiểm tra các sự kiện đang được tổ chức hoặc sắp tổ chức muốn hủy, When sự kiện, cập nhật vào `IsOnline` thành false để hủy sự kiện.
 -Sự kiện vẫn lưu trong danh sách nhưng trạng thái hoạt động chuyển về false
-### VỀ NHÀ SỬA SAU
